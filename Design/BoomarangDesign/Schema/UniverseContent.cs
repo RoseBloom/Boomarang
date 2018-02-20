@@ -1,6 +1,6 @@
 ﻿namespace Schema
 {
-    internal class UniverseContent 
+    public class UniverseContent 
     {
     }
 }
